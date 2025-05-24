@@ -12,6 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   });
 
+
   // Add smooth page transitions
   const links = document.querySelectorAll('a');
   links.forEach(link => {
